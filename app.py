@@ -66,7 +66,7 @@ if menu == "Home":
 
     st.markdown("---")
     st.markdown("## 📸 Our Featured Destination")
-    st.image("images/travel_banner.jpg", use_container_width=True)
+    st.image("https://images.unsplash.com/photo-1507525428034-b723cf961d3e", use_container_width=True)
 
 # Destinations Page
 elif menu == "Destinations":
